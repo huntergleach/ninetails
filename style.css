@@ -1,0 +1,8 @@
+body {
+    background: rgb(161, 161, 161);
+}
+h1 {
+    font-style: italic;
+    text-shadow: indigo;
+    color: honeydew;
+}
